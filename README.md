@@ -1,5 +1,5 @@
 INSTALL GUIDE: 
-1: Open Terminal and paste git clone https://github.com/tirstirs113-afk/Privategram
+1: Open Terminal and paste git clone github.com/tirstirs113-afk/Privategram
 2: then paste cd Privategram
 3: paste g++ server.cpp server_main.cpp -o server
 3: g++ messenger.cpp client.cpp -o messenger
